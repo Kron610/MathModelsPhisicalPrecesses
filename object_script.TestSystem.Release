@@ -1,0 +1,12 @@
+release/buttonFunctions.o
+release/correlator.o
+release/dataStorage.o
+release/helper.o
+release/interpolator.o
+release/main.o
+release/qcustomplot.o
+release/reactor.o
+release/testui.o
+release/visualisation.o
+release/moc_qcustomplot.o
+release/moc_testui.o

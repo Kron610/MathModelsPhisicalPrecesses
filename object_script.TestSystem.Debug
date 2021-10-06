@@ -1,0 +1,12 @@
+debug/buttonFunctions.o
+debug/correlator.o
+debug/dataStorage.o
+debug/helper.o
+debug/interpolator.o
+debug/main.o
+debug/qcustomplot.o
+debug/reactor.o
+debug/testui.o
+debug/visualisation.o
+debug/moc_qcustomplot.o
+debug/moc_testui.o
